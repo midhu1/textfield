@@ -47,4 +47,11 @@ class Database {
       {"image":"asset/Rectangle 22 (3).png","title":"Season 1 Coming December 14","subtitle":"Castle & Castle"},
       {"image":"asset/Rectangle 22 (4).png","title":"Season 1 Coming December 14","subtitle":"Tiny Pretty Things"},
     ];
+    static List<String> dynamic = [
+      "https://i.pinimg.com/236x/93/c0/b6/93c0b623d2e0165e8a37b9ae367cb19f.jpg",
+      "https://i.pinimg.com/236x/4a/21/cf/4a21cf4cb30f4c3fdee69e51362fa3bb.jpg",
+      "https://i.pinimg.com/236x/94/a7/4d/94a74d183296abfa7612944ee048c2fa.jpg",
+      "https://i.pinimg.com/236x/24/e6/d8/24e6d8ac48c057a0ab5e2ff300f87b25.jpg",
+
+    ];
 }
